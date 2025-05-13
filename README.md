@@ -17,10 +17,6 @@ Um jogo interativo desenvolvido com JavaScript puro, onde o desafio é reorganiz
 - CSS3
 - JavaScript (DOM, lógica com matrizes, Audio API)
 
-## 📸 Preview
-
-![Preview do jogo](./screenshot.png) <!-- Substitua pelo nome real do arquivo de imagem do jogo -->
-
 ## 🚀 Como Executar
 
 1. Clone o repositório:
